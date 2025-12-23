@@ -1,0 +1,17 @@
+*.csv
+
+LM*/
+leaked-*/
+.Trash*
+.ipynb_checkpoints
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
+.env
+.env.*
+
+
+*.zip
+*.key
+Pile-CC-*/
